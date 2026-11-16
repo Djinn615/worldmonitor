@@ -78,6 +78,8 @@ Issues filed against any of the above are triaged from the same backlog — see 
 
 ## Quick Start
 
+Use Node.js 24, the version in `.nvmrc` and in CI.
+
 ```bash
 git clone https://github.com/koala73/worldmonitor.git
 cd worldmonitor
